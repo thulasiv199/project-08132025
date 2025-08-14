@@ -1,0 +1,2 @@
+first ,we have to create a folder i.e our workspace.in that folder we clone out repos,then we switch to our repo then we are in git repo.
+then we areate a branch ,switch to that branch .crete a file thne add ,commit,then push.
